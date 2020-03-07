@@ -1,3 +1,3 @@
-export const removeCommas = str => str.replace(/,/g, '');
+export const removeCommas = (str) => { const t = `${str}`; return t.replace(/,/g, ''); };
 
-export const removeNonNumeric = str => str.replace(/[^0-9.]/g, '');
+export const removeNonNumeric = (str) => { const t = `${str}`; return t.replace(/[^0-9.]/g, ''); };

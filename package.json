@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tehkhop/streamlabs-socket-client.git"
+    "url": "https://github.com/tjabbe/streamlabs-socket-client.git"
   },
   "keywords": [
     "websockets",
